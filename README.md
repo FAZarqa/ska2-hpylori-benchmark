@@ -25,13 +25,7 @@ IQ-TREE phylogeny.
 | `fastgear_import.sh` | Converts a fastGEAR output directory into a single importation status file (recent + ancestral events) |
 | `mask_recombinant_regions.py` | Masks recombinant regions in a gene alignment with N, using the importation status file and a minimum length cutoff |
 | `plot_ska2_vs_benchmark.R` | Generic function to scatter-plot SKA2 distances against a benchmark distance matrix (DNAdiff or ML), with Pearson r, R², and n annotated |
-| `dnadiff_vs_ska2_k17.R` | SKA2 (k=17) vs DNAdiff raw distance comparison |
-| `dnadiff_vs_ska2_k15.R` | SKA2 (k=15) vs DNAdiff raw distance comparison |
 
-Genome QC steps (BUSCO/FastANI/QUAST/CheckM2 commands) and per-run assembly
-scripts are not included here as they're one-off runs with paths and
-parameters specific to this dataset; see the Methods for the exact
-commands and thresholds used.
 
 ## Requirements
 
