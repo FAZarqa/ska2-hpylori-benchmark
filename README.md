@@ -1,4 +1,4 @@
-# H. pylori SKA2 transmission genomics — analysis scripts
+# H. pylori SKA2 transmission genomics analysis scripts
 
 Custom scripts supporting the evaluation of SKA2 as a reference-free
 distance estimator for *Helicobacter pylori* transmission epidemiology,
